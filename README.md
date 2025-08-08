@@ -2,3 +2,4 @@
 Links to public documents of which I am the author (or an author)
 * [Unicode Proposals I have submitted to the UTC SEWG or directly to the UTC](https://docs.google.com/document/d/1T1wNJvEp-OGa-kOc-eCKUh9-1FGVNFuwApvTNmjBxP0/edit?usp=sharing)
 * [A Review of the ArtScroll Transliterated Linear Siddur (Ashkenaz)](https://gist.github.com/bdenckla/f04699f2a9c4eccd3220751fdb233722)
+* [A Review of Hebrew World's Phonetic Bible](https://gist.github.com/bdenckla/7e578526559cbbfc2d54a1bc0c827072)
