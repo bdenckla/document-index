@@ -8,3 +8,8 @@ Links to public documents of which I am the author (or an author)
 * [Review of "Textual Variants … B19a …"](https://docs.google.com/document/d/1arLD39IEJwpfbftTMc3yExTdutDIhy6tBmha3ydFLIg/edit?usp=sharing)
 * [Changes in Westminster Leningrad Codex (WLC) version 4.22](https://bdenckla.github.io/UXLC-utils/420422/)
 * [One particular change in Ezra 4:12 in WLC 4.22](https://bdenckla.github.io/UXLC-utils/420422/full-record/420422-54.html)
+* Undoing and redoing the work of the Masoretes
+    * Part 1: [The tale of the qadma](https://docs.google.com/document/d/10Lz6FYvaOyUOyol8KIy3UK2ccIy_ZoOW3bIwzdD85zo/edit?usp=sharing)
+    * Part 2: [Saying the quiet part out loud](https://docs.google.com/document/d/1J_jfKhwK5_ShYMGwei_aPBGR0LDfto3TVbgK3lg_6s4/edit?usp=sharing)
+    * Part 3: [Extra verses](https://docs.google.com/document/d/18IbvlmJ3PBIcN1d2rpAv989jspu6eGKvrMqZTeSMBHA/edit?usp=sharing)
+    * Part 4: [Atnaḥ hafukh](https://docs.google.com/document/d/1ZWHtSbH7B0EekW99XIJ0l16EuYHXKCA4wS07hPWQXEI/edit?usp=sharing)
