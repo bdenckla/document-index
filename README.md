@@ -1,5 +1,5 @@
 # document-index
-Links to public documents of which I am the author (or an author)
+Links to public documents of which I am the author (or an author):
 * [Unicode Proposals I have submitted](https://docs.google.com/document/d/1T1wNJvEp-OGa-kOc-eCKUh9-1FGVNFuwApvTNmjBxP0/edit?usp=sharing)
 * MAM
     * [Miqra as Oral Torah, Written Torah and Digital Torah](https://hakirah.org/vol36Kadish.pdf)
@@ -20,3 +20,14 @@ Links to public documents of which I am the author (or an author)
     * Part 2: [Saying the quiet part out loud](https://docs.google.com/document/d/1J_jfKhwK5_ShYMGwei_aPBGR0LDfto3TVbgK3lg_6s4/edit?usp=sharing)
     * Part 3: [Extra verses](https://docs.google.com/document/d/18IbvlmJ3PBIcN1d2rpAv989jspu6eGKvrMqZTeSMBHA/edit?usp=sharing)
     * Part 4: [Atnaḥ hafukh](https://docs.google.com/document/d/1ZWHtSbH7B0EekW99XIJ0l16EuYHXKCA4wS07hPWQXEI/edit?usp=sharing)
+
+Documents of which I am not exactly the author (or a co-author), but are “mine” in some sense:
+
+* Editions of MAM:
+   * [Phonetic MAM](https://bdenckla.github.io/phonetic-hbo/)
+   * [MAM with doc](https://bdenckla.github.io/MAM-with-doc/)
+* External documentation of MAM:
+   * [MAM FOI (Features of Interest) Lists](https://bdenckla.github.io/MAM-with-doc/foi/index.html)
+   * [MAM Torah *aliyot*](https://bdenckla.github.io/MAM-with-doc/aliyot.html)
+* [Excerpts from *Introduction to the Tiberian Masorah* by Israel Yeivin](https://bdenckla.github.io/phonetic-hbo/yeivin_itm.html)
+* [Documentation for my Biblical Hebrew font, “Taamey D”](https://bdenckla.github.io/Taamey_D/) ([latest release of that font](https://github.com/bdenckla/Taamey_D/releases/latest))
