@@ -5,8 +5,7 @@ Links to public documents of which I am the author (or an author):
     * [Miqra as Oral Torah, Written Torah and Digital Torah](https://hakirah.org/vol36Kadish.pdf)
        * (in Ḥakirah volume 36)
        * (co-author Seth (Avi) Kadish)
-    * [MAM and UXLC — two Hebrew Bible datasets](https://t.co/YmM3Wj9RVr)
-       * (presented at the 2023 SBL Annual Meeting in San Antonio)
+    * [MAM and UXLC — two Hebrew Bible datasets](https://t.co/YmM3Wj9RVr) (presented at the 2023 SBL Annual Meeting in San Antonio)
 * Reviews
     * [Review of ArtScroll's Transliterated Linear Siddur (Ashkenaz)](https://gist.github.com/bdenckla/f04699f2a9c4eccd3220751fdb233722)
     * [Review of Hebrew World's Phonetic Bible](https://gist.github.com/bdenckla/7e578526559cbbfc2d54a1bc0c827072)
