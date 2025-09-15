@@ -27,6 +27,6 @@ Documents of which I am not exactly the author (or a co-author), but are “mine
    * [MAM with doc](https://bdenckla.github.io/MAM-with-doc/)
 * External documentation of MAM:
    * [MAM FOI (Features of Interest) Lists](https://bdenckla.github.io/MAM-with-doc/foi/index.html)
-   * [MAM Torah *aliyot*](https://bdenckla.github.io/MAM-with-doc/aliyot.html)
+   * [MAM Torah *aliyot*](https://bdenckla.github.io/MAM-with-doc/aliyot/aliyot.html)
 * [Excerpts from *Introduction to the Tiberian Masorah* by Israel Yeivin](https://bdenckla.github.io/phonetic-hbo/yeivin_itm.html)
 * [Documentation for my Biblical Hebrew font, “Taamey D”](https://bdenckla.github.io/Taamey_D/) ([latest release of that font](https://github.com/bdenckla/Taamey_D/releases/latest))
