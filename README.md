@@ -23,7 +23,7 @@ Links to public documents of which I am the author (or an author):
     * Part 4: [Atnaḥ hafukh](https://docs.google.com/document/d/1ZWHtSbH7B0EekW99XIJ0l16EuYHXKCA4wS07hPWQXEI/edit?usp=sharing)
 * [Documentation for my Biblical Hebrew font, “Taamey D”](https://bdenckla.github.io/Taamey_D/) ([latest release of that font](https://github.com/bdenckla/Taamey_D/releases/latest))
 
-Documents of which I am not the author (or a co-author), but are “mine” in some sense:
+Documents of which I am neither the author nor an author, but are “mine” in some sense:
 
 * Editions of MAM:
    * [Phonetic MAM](https://bdenckla.github.io/phonetic-hbo/)
