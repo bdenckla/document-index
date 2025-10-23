@@ -6,6 +6,8 @@ Links to public documents of which I am the author (or an author):
        * (in Ḥakirah volume 36)
        * (co-author Seth (Avi) Kadish)
     * [MAM and UXLC — two Hebrew Bible datasets](https://t.co/YmM3Wj9RVr) (presented at the 2023 SBL Annual Meeting in San Antonio)
+   * [MAM FOI (Features of Interest) Lists](https://bdenckla.github.io/MAM-with-doc/foi/index.html)
+   * [MAM Torah *aliyot*](https://bdenckla.github.io/MAM-with-doc/aliyot/aliyot.html)
 * Reviews
     * [Review of ArtScroll's Transliterated Linear Siddur (Ashkenaz)](https://gist.github.com/bdenckla/f04699f2a9c4eccd3220751fdb233722)
     * [Review of Hebrew World's Phonetic Bible](https://gist.github.com/bdenckla/7e578526559cbbfc2d54a1bc0c827072)
@@ -19,14 +21,11 @@ Links to public documents of which I am the author (or an author):
     * Part 2: [Saying the quiet part out loud](https://docs.google.com/document/d/1J_jfKhwK5_ShYMGwei_aPBGR0LDfto3TVbgK3lg_6s4/edit?usp=sharing)
     * Part 3: [Extra verses](https://docs.google.com/document/d/18IbvlmJ3PBIcN1d2rpAv989jspu6eGKvrMqZTeSMBHA/edit?usp=sharing)
     * Part 4: [Atnaḥ hafukh](https://docs.google.com/document/d/1ZWHtSbH7B0EekW99XIJ0l16EuYHXKCA4wS07hPWQXEI/edit?usp=sharing)
+* [Documentation for my Biblical Hebrew font, “Taamey D”](https://bdenckla.github.io/Taamey_D/) ([latest release of that font](https://github.com/bdenckla/Taamey_D/releases/latest))
 
-Documents of which I am not exactly the author (or a co-author), but are “mine” in some sense:
+Documents of which I am not the author (or a co-author), but are “mine” in some sense:
 
 * Editions of MAM:
    * [Phonetic MAM](https://bdenckla.github.io/phonetic-hbo/)
    * [MAM with doc](https://bdenckla.github.io/MAM-with-doc/)
-* External documentation of MAM:
-   * [MAM FOI (Features of Interest) Lists](https://bdenckla.github.io/MAM-with-doc/foi/index.html)
-   * [MAM Torah *aliyot*](https://bdenckla.github.io/MAM-with-doc/aliyot/aliyot.html)
 * [Excerpts from *Introduction to the Tiberian Masorah* by Israel Yeivin](https://bdenckla.github.io/phonetic-hbo/yeivin_itm.html)
-* [Documentation for my Biblical Hebrew font, “Taamey D”](https://bdenckla.github.io/Taamey_D/) ([latest release of that font](https://github.com/bdenckla/Taamey_D/releases/latest))
