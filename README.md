@@ -13,6 +13,7 @@ Links to public documents of which I am the author (or an author):
     * [Review of Hebrew World's Phonetic Bible](https://gist.github.com/bdenckla/7e578526559cbbfc2d54a1bc0c827072)
     * [Review of Mitchell's "The Songs of Ascents"](https://docs.google.com/document/d/1wQlELb2BDyy1VWnToQqf2uq2SU1SSVD2Fqw93GI0y8g/edit?usp=sharing)
     * [Review of "Textual Variants … B19a …"](https://docs.google.com/document/d/1arLD39IEJwpfbftTMc3yExTdutDIhy6tBmha3ydFLIg/edit?usp=sharing)
+    * [Review of Chabad's web Tanakh](https://bdenckla.github.io/MAM-with-doc/misc/rocc_0_review_of_ctr.html)
 * WLC
     * [All changes in Westminster Leningrad Codex (WLC) version 4.22](https://bdenckla.github.io/UXLC-utils/420422/)
     * [One particular change in Ezra 4:12 in WLC 4.22](https://bdenckla.github.io/UXLC-utils/420422/full-record/420422-54.html)
