@@ -15,6 +15,7 @@ Links to public documents of which I am the author (or an author):
     * [Review of "Textual Variants … B19a …"](https://docs.google.com/document/d/1arLD39IEJwpfbftTMc3yExTdutDIhy6tBmha3ydFLIg/edit?usp=sharing)
     * [Review of Chabad's web Tanakh](https://bdenckla.github.io/MAM-with-doc/misc/rocc_0_review_of_ctr.html)
     * [Review of A Hebrew Reader for the Pentateuch](https://docs.google.com/document/d/1XV_jIHXSY_qzl0XNLwjBHaw8in9WoFCbyHrN5-7pqow/edit?usp=sharing)
+    * [Review of the Job fascicle of BHQ](https://bdenckla.github.io/book-of-job/jobn/job2_main_article.html)
 * WLC
     * [All changes in Westminster Leningrad Codex (WLC) version 4.22](https://bdenckla.github.io/UXLC-utils/420422/)
     * [One particular change in Ezra 4:12 in WLC 4.22](https://bdenckla.github.io/UXLC-utils/420422/full-record/420422-54.html)
