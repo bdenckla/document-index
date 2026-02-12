@@ -19,6 +19,7 @@ Links to public documents of which I am the author (or an author):
 * WLC
     * [All changes in Westminster Leningrad Codex (WLC) version 4.22](https://bdenckla.github.io/UXLC-utils/420422/)
     * [One particular change in Ezra 4:12 in WLC 4.22](https://bdenckla.github.io/UXLC-utils/420422/full-record/420422-54.html)
+    * [All WLC a-notes](https://bdenckla.github.io/UXLC-utils/wlc-a-notes/)
 * Undoing and redoing the work of the Masoretes
     * Part 1: [The tale of the qadma](https://docs.google.com/document/d/10Lz6FYvaOyUOyol8KIy3UK2ccIy_ZoOW3bIwzdD85zo/edit?usp=sharing)
     * Part 2: [Saying the quiet part out loud](https://docs.google.com/document/d/1J_jfKhwK5_ShYMGwei_aPBGR0LDfto3TVbgK3lg_6s4/edit?usp=sharing)
