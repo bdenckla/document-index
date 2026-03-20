@@ -22,7 +22,7 @@ Links to public documents of which I am the author (or an author):
     * [All WLC a-notes](https://bdenckla.github.io/UXLC-utils/wlc-a-notes/)
 * Undoing and redoing the work of the Masoretes
     * Part 1: [The tale of the qadma](https://docs.google.com/document/d/e/2PACX-1vRb9FFplpKS8RcQ120gPt9-lz2zhpn5ttW3w6WBvhhGkVgahzwA_oSe2eHTr8ix9J9bVg04rh7-d-g6/pub)
-    * Part 2: [Saying the quiet part out loud](https://docs.google.com/document/d/1J_jfKhwK5_ShYMGwei_aPBGR0LDfto3TVbgK3lg_6s4/edit?usp=sharing)
+    * Part 2: [Saying the quiet part out loud](https://docs.google.com/document/d/e/2PACX-1vTJY9m46s2kIOgT9ccFeSgubRUj1aP-rxnF0IlOLeCy2pTJJmB5DpM7_D5z4ZiN1P5ev4z8tFHDVTyq/pub)
     * Part 3: [Extra verses](https://docs.google.com/document/d/18IbvlmJ3PBIcN1d2rpAv989jspu6eGKvrMqZTeSMBHA/edit?usp=sharing)
     * Part 4: [Atnaḥ hafukh](https://docs.google.com/document/d/1ZWHtSbH7B0EekW99XIJ0l16EuYHXKCA4wS07hPWQXEI/edit?usp=sharing)
 * [Documentation for my Biblical Hebrew font, “Taamey D”](https://bdenckla.github.io/Taamey_D/) ([latest release of that font](https://github.com/bdenckla/Taamey_D/releases/latest))
