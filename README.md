@@ -12,7 +12,7 @@ Links to public documents of which I am the author (or an author):
     * [Review of ArtScroll's Transliterated Linear Siddur (Ashkenaz)](https://gist.github.com/bdenckla/f04699f2a9c4eccd3220751fdb233722)
     * [Review of Hebrew World's Phonetic Bible](https://gist.github.com/bdenckla/7e578526559cbbfc2d54a1bc0c827072)
     * [Review of Mitchell's "The Songs of Ascents"](https://docs.google.com/document/d/1wQlELb2BDyy1VWnToQqf2uq2SU1SSVD2Fqw93GI0y8g/edit?usp=sharing)
-    * [Review of "Textual Variants … B19a …"](https://docs.google.com/document/d/1arLD39IEJwpfbftTMc3yExTdutDIhy6tBmha3ydFLIg/edit?usp=sharing)
+    * [Review of "Textual Variants … B19a …"](https://docs.google.com/document/d/e/2PACX-1vSD53ZHZQOOu9oppVN3k19zdaOPhvR97tCFdJT1q9WJXze1gzAMfPeAbQao-k2EYgzOK2MtyLweOn5h/pub)
     * [Review of Chabad's web Tanakh](https://bdenckla.github.io/MAM-with-doc/misc/rocc_0_review_of_ctr.html)
     * [Review of A Hebrew Reader for the Pentateuch](https://docs.google.com/document/d/e/2PACX-1vQ6QyxCbui3JRF2II6QYnF4ZMbjCDXGsQQ3qCheRAKCGvvdp1_TYeXTIiesDNmM-KWxvmW3dlM2ipV8/pub)
     * [Review of the Job fascicle of BHQ](https://bdenckla.github.io/book-of-job/jobn/job2_main_article.html)
