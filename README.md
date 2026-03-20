@@ -7,7 +7,7 @@ Links to public documents of which I am the author (or an author):
        * (co-author Seth (Avi) Kadish)
     * [MAM and UXLC — two Hebrew Bible datasets](https://t.co/YmM3Wj9RVr) (presented at the 2023 SBL Annual Meeting in San Antonio)
    * [MAM FOI (Features of Interest) Lists](https://bdenckla.github.io/MAM-with-doc/foi/index.html)
-   * [MAM Torah *aliyot*](https://bdenckla.github.io/MAM-with-doc/aliyot/aliyot.html)
+   * [Notes on Torah *aliyot*](https://bdenckla.github.io/MAM-with-doc/misc/notes_on_aliyot.html)
 * Reviews
     * [Review of ArtScroll's Transliterated Linear Siddur (Ashkenaz)](https://gist.github.com/bdenckla/f04699f2a9c4eccd3220751fdb233722)
     * [Review of Hebrew World's Phonetic Bible](https://gist.github.com/bdenckla/7e578526559cbbfc2d54a1bc0c827072)
