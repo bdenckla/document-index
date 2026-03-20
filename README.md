@@ -24,7 +24,7 @@ Links to public documents of which I am the author (or an author):
     * Part 1: [The tale of the qadma](https://docs.google.com/document/d/e/2PACX-1vRb9FFplpKS8RcQ120gPt9-lz2zhpn5ttW3w6WBvhhGkVgahzwA_oSe2eHTr8ix9J9bVg04rh7-d-g6/pub)
     * Part 2: [Saying the quiet part out loud](https://docs.google.com/document/d/e/2PACX-1vTJY9m46s2kIOgT9ccFeSgubRUj1aP-rxnF0IlOLeCy2pTJJmB5DpM7_D5z4ZiN1P5ev4z8tFHDVTyq/pub)
     * Part 3: [Extra verses](https://docs.google.com/document/d/e/2PACX-1vR5AlviW3BrLRPXAcunRBgC7q4Qd7APZ_44voIg-EMrigP6zBP9gIG4Ae8wj_8l1UTQYjlzed7HchyY/pub)
-    * Part 4: [Atnaḥ hafukh](https://docs.google.com/document/d/1ZWHtSbH7B0EekW99XIJ0l16EuYHXKCA4wS07hPWQXEI/edit?usp=sharing)
+    * Part 4: [Atnaḥ hafukh](https://docs.google.com/document/d/e/2PACX-1vQpkwDpUZW1H_MeIpY4XPEWu8Zrdj0mdRVFGzZkSlePBGcnd3rqcTdqwYEQGxX-T7WI5KvxeInhUtQg/pub)
 * [Documentation for my Biblical Hebrew font, “Taamey D”](https://bdenckla.github.io/Taamey_D/) ([latest release of that font](https://github.com/bdenckla/Taamey_D/releases/latest))
 
 Documents of which I am neither the author nor an author, but are “mine” in some sense:
