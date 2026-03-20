@@ -14,7 +14,7 @@ Links to public documents of which I am the author (or an author):
     * [Review of Mitchell's "The Songs of Ascents"](https://docs.google.com/document/d/1wQlELb2BDyy1VWnToQqf2uq2SU1SSVD2Fqw93GI0y8g/edit?usp=sharing)
     * [Review of "Textual Variants … B19a …"](https://docs.google.com/document/d/1arLD39IEJwpfbftTMc3yExTdutDIhy6tBmha3ydFLIg/edit?usp=sharing)
     * [Review of Chabad's web Tanakh](https://bdenckla.github.io/MAM-with-doc/misc/rocc_0_review_of_ctr.html)
-    * [Review of A Hebrew Reader for the Pentateuch](https://docs.google.com/document/d/1XV_jIHXSY_qzl0XNLwjBHaw8in9WoFCbyHrN5-7pqow/edit?usp=sharing)
+    * [Review of A Hebrew Reader for the Pentateuch](https://docs.google.com/document/d/e/2PACX-1vQ6QyxCbui3JRF2II6QYnF4ZMbjCDXGsQQ3qCheRAKCGvvdp1_TYeXTIiesDNmM-KWxvmW3dlM2ipV8/pub)
     * [Review of the Job fascicle of BHQ](https://bdenckla.github.io/book-of-job/jobn/job2_main_article.html)
 * WLC
     * [All changes in Westminster Leningrad Codex (WLC) version 4.22](https://bdenckla.github.io/UXLC-utils/420422/)
