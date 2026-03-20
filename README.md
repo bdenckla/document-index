@@ -1,6 +1,6 @@
 # document-index
 Links to public documents of which I am the author (or an author):
-* [Unicode Proposals I have submitted](https://docs.google.com/document/d/1T1wNJvEp-OGa-kOc-eCKUh9-1FGVNFuwApvTNmjBxP0/edit?usp=sharing)
+* [Unicode Proposals I have submitted](https://docs.google.com/document/d/e/2PACX-1vT-74uUOalRnQ5N_YrJuXL4a6jw1uE92DyqtTTM_xoFw1l-0tvybaSA6KUdQubUxN1LbBPa1OqAf2CZ/pub)
 * MAM
     * [Miqra as Oral Torah, Written Torah and Digital Torah](https://hakirah.org/vol36Kadish.pdf)
        * (in Ḥakirah volume 36)
