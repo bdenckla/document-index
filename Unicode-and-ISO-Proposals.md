@@ -1,3 +1,5 @@
+<!-- Originally created from https://docs.google.com/document/d/e/2PACX-1vT-74uUOalRnQ5N_YrJuXL4a6jw1uE92DyqtTTM_xoFw1l-0tvybaSA6KUdQubUxN1LbBPa1OqAf2CZ/pub. This Markdown document is now the canonical form and location for this information. That Google Doc is deprecated. -->
+
 # Unicode and ISO Proposals
 
 1. Regarding the name HEAVY SHEVA [LGD](https://docs.google.com/document/u/0/d/18Zq9eJMREv8JtdMpME0zXtddA2FHDLpVXpa7gNvedEU/edit), [L2/25-160](https://www.unicode.org/L2/L2025/25160-heavy-sheva.pdf)
